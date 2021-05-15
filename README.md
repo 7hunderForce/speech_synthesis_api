@@ -1,4 +1,4 @@
-# Voice Control
+# Speech Synthesis
 
 ## API Documentation 
 
